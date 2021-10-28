@@ -1,0 +1,12 @@
+D:\Workspace\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.deps.json
+D:\Workspace\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.dll
+D:\Workspace\EverisStore\EverisStore.Domain\bin\Debug\net5.0\ref\EverisStore.Domain.dll
+D:\Workspace\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.pdb
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.AssemblyReference.cache
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfoInputs.cache
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfo.cs
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.dll
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\ref\EverisStore.Domain.dll
+D:\Workspace\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.pdb
