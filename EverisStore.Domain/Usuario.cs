@@ -6,22 +6,32 @@ using System.Threading.Tasks;
 
 namespace EverisStore.Domain
 {
-    public class Usuario
+    public class Usuario : EntidadeBase
     {
-        public Usuario(int id, string nome, string email, string senha, bool ativo)
+        public Usuario(int id, string nome, string email, string senha)
         {
             Id = id;
             Nome = nome;
             Email = email;
             Senha = senha;
-            Ativo = ativo;
+            Ativar();
         }
 
-        public int Id { get; set; }
         public string Nome { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public DateTime DataCadastro { get; set; }
-        public bool Ativo { get; set; }
+        public int PerfilId { get; set; }
+        public Perfil Perfil { get; set; }
+        public bool RetornaAtivo() => Ativo;
+
+        public void Desativar(int id)
+        {
+            Id = 0;
+            Ativo = false;
+            return;
+        }
+        public void Ativar() => Ativo = true;
+
+        public void Desativar() => Ativo = false;
     }
 }
